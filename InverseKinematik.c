@@ -1,5 +1,5 @@
 //
-// Created by Julian Schrenk on 14.10.22.
+// Created by Cenk Orhan on 14.10.22.
 //
 //#include <math.h>
 #include "InverseKinematik.h"
